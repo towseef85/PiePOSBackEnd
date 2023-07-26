@@ -1,0 +1,12 @@
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\bin\Debug\net6.0\PiePOS.Domain.deps.json
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\bin\Debug\net6.0\PiePOS.Domain.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\bin\Debug\net6.0\PiePOS.Domain.pdb
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.csproj.AssemblyReference.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.AssemblyInfoInputs.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.AssemblyInfo.cs
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\refint\PiePOS.Domain.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\PiePOS.Domain.pdb
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Domain\obj\Debug\net6.0\ref\PiePOS.Domain.dll

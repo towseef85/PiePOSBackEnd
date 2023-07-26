@@ -1,0 +1,12 @@
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\bin\Debug\net6.0\PiePOS.Infrastructure.deps.json
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\bin\Debug\net6.0\PiePOS.Infrastructure.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\bin\Debug\net6.0\PiePOS.Infrastructure.pdb
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.AssemblyInfo.cs
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\refint\PiePOS.Infrastructure.dll
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\PiePOS.Infrastructure.pdb
+C:\Users\Towseef\Documents\Testing\PiePOS\PiePOS.Infrastructure\obj\Debug\net6.0\ref\PiePOS.Infrastructure.dll

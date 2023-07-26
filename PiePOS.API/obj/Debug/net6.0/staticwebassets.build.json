@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yxlFUz4xcBpTCrG+ZzksZAn2iTjdrnv5fk/XuNMDy8g=",
+  "Source": "PiePOS.API",
+  "BasePath": "_content/PiePOS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
